@@ -1,0 +1,6 @@
+1. Basic Speech Recognition
+2. Setting Triger and running commands on Triger
+3. Running different commands:
+    a. Browser Open
+    b. Time and Date
+    
